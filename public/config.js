@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/KodiakFi",
   "VITE_SEO_SITE_NAME": "Kodiak Perps",
   "VITE_SEO_SITE_DESCRIPTION": "Trade perps with up to 100x leverage on Kodiak - a decentralized DEX powered by Orderly Network.  Trade from any EVM chain or Solana.",
-  "VITE_SEO_SITE_URL": "https://berps.kodiak.finance",
+  "VITE_SEO_SITE_URL": "https://perps.kodiak.finance",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@KodiakFi",
